@@ -1,3 +1,5 @@
+Archived: This was just a practice repo, not maintained.
+
 # セットアップ方法
 
 Three.js のシェーダー開発するための開発環境です。
@@ -13,4 +15,5 @@ npm install
 
 このリポジトリは[MIT license](https://en.wikipedia.org/wiki/MIT_License)です。
 "# threejs-sea-setup" 
+
 # threejs-sea
